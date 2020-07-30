@@ -1,6 +1,6 @@
-# Automato de Pilha Determinístico
+# Autômato Finito Determinístico
 
-Trabalho realizado na disciplina Teoria da Computação, que consiste em implementar um automato de pilha determinístico em C++.
+Trabalho realizado na disciplina Teoria da Computação, que consiste em implementar um autômato finito determinístico em C++.
 
 O programa recebe uma entrada através de um arquivo contendo as informações sobre o AFD e retorna os estados percorridos pela palavra e se esta foi aceita ou não.
 
