@@ -156,16 +156,6 @@ class AFD{
                     ifs.getline(linha, 256);
                     this->palavras.push_back(linha);
                 }
-            //teste pra ver se to no caminho 
-            // reset(buffer);
-            // ifs.getline(buffer, 256);
-            // cout << endl<< buffer;
-            // cout << endl<< (int)buffer[25];
-            // char  *teste = (char*)malloc(30*sizeof(char));
-            // strcpy(teste, buffer);
-            // cout << teste;
-            // cout << endl;
-            // cout << endl<< (int)teste[25];
             }
     
         };
